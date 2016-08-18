@@ -1,0 +1,11 @@
+/// colors
+/// main varible
+$primary-color: black;
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+body {
+  color: $primary-color;
+  font-family: 'Lato', sans-serif;
+  background-color: coral;
+}
+
